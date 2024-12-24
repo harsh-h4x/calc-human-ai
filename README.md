@@ -23,6 +23,10 @@ This project is a simple calculator that resembles the Apple calculator. It is b
     ```
 2. Open the `index.html` file in your web browser to use the calculator.
 
+## Final Result
+
+![Calculator Screenshot](path/to/your/screenshot.png)
+
 ## Author
 
 - harsh-h4x
