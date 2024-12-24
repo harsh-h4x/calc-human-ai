@@ -21,11 +21,15 @@ This project is a simple calculator that resembles the Apple calculator. It is b
     git clone https://github.com/harsh-h4x/calc-human-ai.git
     cd calc-human-ai
     ```
-2. Open the `index.html` file in your web browser to use the calculator.
+    or
+   download the zip file and extract all files from it.
+   
+3. Open the `index.html` file in your web browser to use the calculator.
 
-## Final Result
+## Final Result :- it must be likre this.
 
-![Calculator Screenshot](path/to/your/screenshot.png)
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/cc25bb32-0c66-467e-95d1-cc15c1f1d359" />
+
 
 ## Author
 
